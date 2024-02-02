@@ -17,4 +17,4 @@ This research investigates the changes in temperature extremes and persistence o
 The notebook consists of text and code cells (`python`). It uses the following libraries:
 
 ## Installation
-No installation should be needed. Just download the notebook and open it in an editor.
+No installation should be needed. Just download the notebook and open it in an editor where you are able to run the code.
