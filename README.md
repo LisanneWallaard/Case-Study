@@ -3,7 +3,7 @@ Modelling temperature persistence in Europe by group PCS-23.
 
 ## Table of Contents
 1. [General info](#general-info)
-2. [Technologies](#dependencies)
+2. [Dependencies](#dependencies)
 3. [Installation](#installation)
 
 ## General info
