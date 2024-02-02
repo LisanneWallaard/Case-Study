@@ -3,7 +3,7 @@ Modelling temperature persistence in Europe by group PCS-23.
 
 ## Table of Contents
 1. [General info](#general-info)
-2. [Technologies](#technologies)
+2. [Technologies](#dependencies)
 3. [Installation](#installation)
 
 ## General info
@@ -13,7 +13,7 @@ This research investigates the changes in temperature extremes and persistence o
 - `dataframes` is a folder of pandas DataFrames containing the estimated parameters of a certain model per weather station.
 - `plots` is a folder of plots containing the $\hat{\phi}$, $\hat{\alpha}$ and $\hat{\mu}$ of the different models per weather station.
 
-## Technologies
+## Dependencies
 The notebook consists of text and code cells in `python`. It uses the following libraries:
 
 ## Installation
