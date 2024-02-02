@@ -14,7 +14,7 @@ This research investigates the changes in temperature extremes and persistence o
 - `plots` is a folder of plots containing the $\hat{\phi}$, $\hat{\alpha}$ and $\hat{\mu}$ of the different models per weather station.
 
 ## Dependencies
-The notebook consists of text and code cells in `python`. It uses the following libraries:
+The notebook consists of text and code cells in `python`. The `requirements.txt` contains the dependencies.
 
 ## Installation
 No installation should be needed. Just download the notebook and open it in an editor where you are able to run the code. It is the most convenient to download both the dataframes as data folder into your Google Drive and mount your notebook with your Drive.
