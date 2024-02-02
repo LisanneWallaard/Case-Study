@@ -11,10 +11,10 @@ This research investigates the changes in temperature extremes and persistence o
 - `PCS_Group23.ipynb` is a notebook containing code that implements the PAR(1) & PQAR(1) model and produces plots of the estimated parameters.
 - `data` is a folder of text files containing the mean temperature of 11 weather station (the data of one weather station is directly retrieved from the internet).
 - `dataframes` is a folder of pandas DataFrames containing the estimated parameters of a certain model per weather station.
-- `plots` is a folder of plots conatining the $\hat{\phi}$, $\hat{\alpha}$ and $\hat{\mu}$ of the different models.
+- `plots` is a folder of plots containing the $\hat{\phi}$, $\hat{\alpha}$ and $\hat{\mu}$ of the different models.
 
 ## Technologies
-The notebook consists of text and code cells (`python`). It uses the following libraries
+The notebook consists of text and code cells (`python`). It uses the following libraries:
 
 ## Installation
 No installation should be needed. Just download the notebook and open it in an editor.
