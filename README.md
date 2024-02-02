@@ -14,7 +14,7 @@ This research investigates the changes in temperature extremes and persistence o
 - `plots` is a folder of plots containing the $\hat{\phi}$, $\hat{\alpha}$ and $\hat{\mu}$ of the different models.
 
 ## Technologies
-The notebook consists of text and code cells (`python`). It uses the following libraries:
+The notebook consists of text and code cells in `python`. It uses the following libraries:
 
 ## Installation
 No installation should be needed. Just download the notebook and open it in an editor where you are able to run the code.
