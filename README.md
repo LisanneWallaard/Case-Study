@@ -17,4 +17,4 @@ This research investigates the changes in temperature extremes and persistence o
 The notebook consists of text and code cells in `python`. It uses the following libraries:
 
 ## Installation
-No installation should be needed. Just download the notebook and open it in an editor where you are able to run the code.
+No installation should be needed. Just download the notebook and open it in an editor where you are able to run the code. It is the most convenient to download both the dataframes as data folder into your Google Drive and mount your notebook with your Drive.
